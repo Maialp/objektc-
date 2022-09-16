@@ -1,0 +1,3 @@
+[submodule "graph_lib"]
+	path = graph_lib
+	url = https://gitlab.stud.idi.ntnu.no/tdt4102/graph_lib.git

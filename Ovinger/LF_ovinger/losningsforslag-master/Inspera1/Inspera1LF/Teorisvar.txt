@@ -1,0 +1,5 @@
+1) Funksjonen kan ikke bruke getline for å lese et tall til en int.
+2) a) Delegerende konstruktør
+   b) Mer gjenbruk av kode
+3) Fjern “continue” (linje 10).
+4) static_cast

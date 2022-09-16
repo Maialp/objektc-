@@ -1,0 +1,17 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "files.associations": {
+        "filesystem": "cpp",
+        "random": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "__bit_reference": "cpp",
+        "__mutex_base": "cpp",
+        "functional": "cpp",
+        "memory": "cpp",
+        "string": "cpp",
+        "tuple": "cpp"
+    }
+}

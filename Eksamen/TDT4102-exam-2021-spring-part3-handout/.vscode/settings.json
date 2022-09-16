@@ -1,0 +1,7 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "files.associations": {
+        "vector": "cpp",
+        "iosfwd": "cpp"
+    }
+}

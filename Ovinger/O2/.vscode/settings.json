@@ -1,0 +1,8 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "files.associations": {
+        "string": "cpp",
+        "filesystem": "cpp",
+        "iosfwd": "cpp"
+    }
+}

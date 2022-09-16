@@ -1,0 +1,13 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "stdexcept": "cpp",
+        "vector": "cpp",
+        "forward_list": "cpp",
+        "fstream": "cpp",
+        "list": "cpp",
+        "string": "cpp"
+    }
+}
